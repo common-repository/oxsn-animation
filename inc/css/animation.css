@@ -1,0 +1,12 @@
+.oxsn_animation {
+	display: inline-block;
+	width: 100%;
+}
+
+.hiding {
+    opacity: 0; 
+}
+
+.visible { 
+    opacity: 1; 
+}
